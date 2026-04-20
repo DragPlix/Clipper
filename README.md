@@ -2,10 +2,6 @@
 
 **Screenshot → annotate → copy.** A tiny Windows tool for grabbing a region of your screen, drawing on it, and pasting it anywhere — with one-click control over the output resolution so images never trip the 2000px limit in tools like Claude Code.
 
-Built by [Flexibles AI](https://flexibles.ai).
-
-![Clipper launcher and editor](./docs/clipper-preview.png)
-
 ---
 
 ## Download
