@@ -4,6 +4,8 @@
 
 Built by [Flexibles AI](https://flexibles.ai).
 
+![Clipper launcher and editor](./docs/clipper-preview.png)
+
 ---
 
 ## Download
